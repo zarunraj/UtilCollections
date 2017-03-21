@@ -1,6 +1,4 @@
-﻿using KPMG.CI.CompetitiveIntelligence.Helper;
-using KPMG.CI.CompetitiveIntelligence.Model;
-using KPMG.CI.CompetitiveIntelligence.ViewModels;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Data.Entity.Core;
@@ -8,7 +6,7 @@ using System.Data.Entity.SqlServer;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace KPMG.CI.CompetitiveIntelligence.DataBase
+namespace mus.DataBase
 {
     
 

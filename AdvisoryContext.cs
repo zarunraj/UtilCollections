@@ -1,9 +1,8 @@
-﻿using KPMG.CI.CompetitiveIntelligence.Model;
-using KPMG.CI.CompetitiveIntelligence.Model.BattleCard;
+﻿
 using System.Configuration;
 using System.Data.Entity;
 
-namespace KPMG.CI.CompetitiveIntelligence.DataBase
+namespace mus.DataBase
 {
     public class AdvisoryContext : DbContext
     {

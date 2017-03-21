@@ -3,7 +3,7 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using System.Runtime.Serialization;
 
-namespace KPMG.CI.CompetitiveIntelligence.Model
+namespace mus.Model
 {
     public class BaseEntity
     {
