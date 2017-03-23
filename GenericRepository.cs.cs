@@ -1,10 +1,10 @@
-﻿using KPMG.CI.CompetitiveIntelligence.Model;
+﻿
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Diagnostics.Contracts;
 using System.Linq;
 
-namespace KPMG.CI.CompetitiveIntelligence.DataBase
+namespace mus.DataBase
 {
     public class GenericRepository<T> where T : BaseEntity
     {
